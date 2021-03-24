@@ -1,0 +1,77 @@
+Package: com.moxcomic.MeituanTweak
+Version: 0.0.1-Alpha
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.moxcomic.MeituanTweak_0.0.1-Alpha_iphoneos-arm.deb
+Size: 141350
+MD5sum: 5166dc5d804fa78c2a4a87a31e53fa62
+SHA1: c96ab6864a129de731e15ff30e49fb4185b90565
+SHA256: a9db63183d0dfe76c7975064b64354fd9ad732e58cc96ac926c20d6dde45b505
+Section: System
+Priority: optional
+Description: 美团电单车🅿️点修改. 建议/bug反馈QQ: 656469762
+Author: 神崎H亚里亚
+Name: MeituanTweak
+
+Package: com.moxcomic.MinZhengTongTweak
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.moxcomic.MinZhengTongTweak_0.1-1_iphoneos-arm.deb
+Size: 12772
+MD5sum: f39d720d44808fe97b870984abde0ecb
+SHA1: a621eb10ed35e6035e5230cf49d971ffc03f23cf
+SHA256: a037aba7c4dd1015b47f03cca651f0a7cae1b3b9a8114d6b5c52919d84f7d7de
+Section: System
+Priority: optional
+Author: 神崎H亚里亚
+Name: MinZhengTongTweak
+
+Package: com.moxcomic.acrackprozs
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: 神崎H亚里亚
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.moxcomic.acrackprozs_0.0.3_iphoneos-arm.deb
+Size: 6698
+MD5sum: 72845d8e1ee7247bf89a9565a5b0ced7
+SHA1: d7c3730a3196d4ebe89bb7766e7912603a16dcd1
+SHA256: ace037d746f77483f7fa27aa17c546149b462a6198d9a1877c39faac64ecd5d0
+Section: Tweaks
+Description: 让Pro助手不再检测多米诺和App越狱推送源, bug反馈QQ: 656469762
+Author: 神崎H亚里亚
+Name: ACrackProZS
+
+Package: com.moxcomic.anodetectlly
+Version: 0.0.1-18+debug
+Architecture: iphoneos-arm
+Maintainer: 神崎H亚里亚
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.moxcomic.anodetectlly_0.0.1-18+debug_iphoneos-arm.deb
+Size: 8714
+MD5sum: 8d1930142f302d797c798988be03b351
+SHA1: 8bc05ce5a9876556a65a386bb1a8dceee21a9f4b
+SHA256: f43d76976914d446c7fd4192881377dff3d45c59a6219b8621a2838a449076c2
+Section: Tweaks
+Description: 让lenglengyu源插件不再检测越狱推送和多米诺源。
+Author: 神崎H亚里亚
+Name: ANoDetectLLY
+
+Package: com.moxcomic.qingqi
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: 神崎H亚里亚
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.moxcomic.qingqi_0.0.1_iphoneos-arm.deb
+Size: 40748
+MD5sum: 7e89d42b65bae50958ef8d5c917d4ae5
+SHA1: 5e05ea67eb7c1e95058468b87778df08a786352f
+SHA256: 2e41461dbefc8f64f7508805bdf3d4b41bb8eb936623ccc3f4d6012fe0752aa6
+Section: Tweaks
+Description: 青桔电单车停车点修改插件。
+Author: 神崎H亚里亚
+Name: QingQiTweak
+

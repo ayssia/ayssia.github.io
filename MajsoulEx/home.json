@@ -1,0 +1,58 @@
+[
+    {
+        "model": "",
+        "content":
+        [
+            {
+                "title": "[双端]公告 - 使用说明",
+                "description": "点击查看使用说明",
+                "url": "https://moxcomic.github.io"
+            },
+            {
+                "title": "[Android]公告 - 安卓版本公告",
+                "description": "关于安卓版本公告",
+                "alert": {
+                    "title": "安卓版本公告",
+                    "message": "由于「雀魂Ex」安卓与苹果双端均由「神崎·H·亚里亚」一人开发, 故不能保证进度以及后续维护进度, 出现任何bug均属于正常情况。\n\n开发者唯一联系方式:\nQQ: 656469762\nQQ: YuukiAsuna\nQQ: 1451925\nQQ: SekinoRoko"
+                }
+            },
+            {
+                "title": "[iOS]公告 - 「我全都要」插件卡28%问题",
+                "description": "点击显示公告详细内容",
+                "alert":
+                {
+                    "title": "关于「我全都要」插件卡28%问题公告",
+                    "message": "由于雀魂官方再次修改代码目前使用「我全都要」插件在对局加载时会卡在28%不动，如果有卡住请暂时关闭此插件重新启动游戏即可，目前该插件作者暂时没有修复打算，至于是否恢复暂时未知,此插件非「雀魂Ex」官方开发,故无法修复。"
+                }
+            },
+            {
+                "title": "[iOS]公告 - 如何返回到游戏界面",
+                "description": "请点击底部「扩展源」或「已安装」页面后点击左上角「返回」",
+                "alert":
+                {
+                    "title": "关于如何返回游戏页面的问题公告",
+                    "message": "请点击底部「扩展源」或「已安装」页面后点击左上角「返回」。"
+                }
+            },
+            {
+                "icon": "https://raw.githubusercontent.com/moxcomic/moxcomic.github.io/master/MajsoulEx/icon_qq.png",
+                "title": "开发者: 神崎·H·亚里亚",
+                "description": "QQ: 656469762"
+            },
+            
+            {
+                "icon": "https://raw.githubusercontent.com/moxcomic/moxcomic.github.io/master/MajsoulEx/icon_qq.png",
+                "title": "QQ交流群",
+                "description": "点击加入群: 991568358",
+                "url": "https://jq.qq.com/?_wv=1027&k=3gaKRwqg"
+            },
+
+            {
+                "icon": "https://raw.githubusercontent.com/moxcomic/moxcomic.github.io/master/MajsoulEx/icon_weibo.png",
+                "title": "雀魂Ex官方Twitter",
+                "description": "点击关注「雀魂Ex」官方Twitter, 消息通知早知道",
+                "url": "https://twitter.com/MajsoulEx"
+            }
+        ]
+    }
+]

@@ -1,0 +1,234 @@
+[
+    {
+        "id": "RetinalCanvas",
+        "name": "全面屏适配",
+        "description": "先通过修改舞台尺寸实现视网膜画布，再通过修改界面去除黑边。\n支持拉伸来实时改变分辨率",
+        "author": "88826",
+        "version": "1.4.1",
+        "preview": "preview.jpg",
+        "homepage": "https://github.com/moxcomic/RetinalCanvas.git"
+    },
+    {
+        "id": "wqdy",
+        "name": "我全都要",
+        "description": "本地解锁全人物，道具等。\n基本解决插件冲突问题,不与服务器冲突时可以送礼物结契约",
+        "author": "Majsoul Plus Team",
+        "version": "2.5.111",
+        "preview": "https://raw.githubusercontent.com/moxcomic/wqdy/master/preview.jpg",
+        "homepage": "https://github.com/moxcomic/wqdy.git",
+        "update":
+        {
+            "time": "2020-01-01",
+            "message": "测试update参数"
+        }
+    },
+
+    {
+        "id": "mjpai_xm2",
+        "version": "1.0.1",
+        "name": "蓝色玫瑰牌背-昭和字体",
+        "author": "小魔",
+        "description": "小魔另一个版本的字体及蓝色玫瑰牌背，\n本套牌牌面及背景均由小魔绘制。\n【修复】哈神流风",
+        "preview":"https://raw.githubusercontent.com/moxcomic/mjpai_xm2/master/preview.jpg",
+        "homepage": "https://github.com/moxcomic/mjpai_xm2.git"
+    },
+
+    {
+        "id": "jieToubw",
+        "name": "接头霸王",
+        "version": "1.9.1",
+        "author": "Yuri",
+        "description": "将雀魂游戏内人物的“头”替换成“接头霸王-凯露”.",
+        "preview": "preview.jpg",
+        "homepage":"https://github.com/reatoz/jieToubw.git"
+    },
+
+    {
+        "id": "EndingEdit",
+        "version": "1.0.4",
+        "name": "天 地 创 造",
+        "author": ["bin"],
+        "description": "修改胡牌结算界面\n需要控制台控制启用\n命令:EndingEdit.*",
+        "preview":"https://raw.githubusercontent.com/moxcomic/EndingEdit/master/preview.jpg",
+        "homepage": "https://github.com/moxcomic/EndingEdit.git"
+    },
+
+    {
+        "id": "font_override",
+        "version": "1.0.1",
+        "name": "替换位图字体mod",
+        "author": ["8q"],
+        "description": "将位图字体替换为完整字体，防止魔改后缺字\n190820:bin修复",
+        "preview": "https://raw.githubusercontent.com/moxcomic/font_override/master/preview.jpg",
+        "homepage": "https://github.com/moxcomic/font_override.git"
+    },
+
+    {
+        "id": "autohule",
+        "version": "2.0.0",
+        "name": "自动和了",
+        "author": "Ethan",
+        "description": "对局开始时默认开启自动和了",
+        "preview": "https://raw.githubusercontent.com/moxcomic/autohule/master/preview.jpg",
+        "homepage": "https://github.com/moxcomic/autohule.git"
+    },
+
+    {
+        "id": "background",
+        "version": "2.0.0",
+        "name":"大厅&室内背景修改",
+        "author":"Yuri",
+        "description":"大厅背景&室内背景.",
+        "preview": "https://raw.githubusercontent.com/moxcomic/background/master/preview.jpg",
+        "homepage": "https://github.com/moxcomic/background.git"
+    },
+
+    {
+        "id": "chong",
+        "version": "1.1.0",
+        "name": "立直按钮改放铳，放弃按钮改防",
+        "author": "芈澐",
+        "description": "想啥呢？立直啊！铳呀！后期加入放弃按钮改防",
+        "preview": "https://raw.githubusercontent.com/moxcomic/chong/master/preview.jpg",
+        "homepage": "https://github.com/moxcomic/chong.git"
+    },
+
+    {
+        "id": "paulzzh_plugin_zjdc",
+        "version": "2.0.3",
+        "name": "最近大铳",
+        "author": "Paulzzh",
+        "description": "为雀魂信息页添加最近大铳和最近炸庄功能",
+        "preview": "https://raw.githubusercontent.com/moxcomic/paulzzh_plugin_zjdc/master/preview.png",
+        "homepage": "https://github.com/moxcomic/paulzzh_plugin_zjdc.git"
+    },
+
+    {
+        "author": ["腾讯", "某昨P"],
+        "id" : "vConsole",
+        "entry" : ["src/fix_css.js", "src/vconsole.min.js", "src/instance.js"],
+        "version" : "3.3.4",
+        "description" : "vConsole",
+        "name" : "vConsole",
+        "homepage": "https://github.com/moxcomic/vConsole.git"
+    },
+
+    {
+        "id": "mjpai_BiliBiliTV",
+        "version": "2.0.0",
+        "name": "Bilibili白天蓝小电视牌背",
+        "author": "CuewarsTaner",
+        "description": "BiliBili麻将牌,替换默认牌背和绿牌背",
+        "preview": "https://raw.githubusercontent.com/moxcomic/mjpai_BiliBiliTV/master/preview.jpg",
+        "homepage": "https://github.com/moxcomic/mjpai_BiliBiliTV.git",
+        "source":
+        {
+            "type": "release",
+            "tag": "2.0.0",
+            "file": "mjpai_BiliBiliTV.mspr"
+        }
+    },
+
+    {
+        "id": "shuibiao",
+        "version": "1.2.2",
+        "name": "查水表",
+        "author": "unknown",
+        "preview": "preview.jpg",
+        "description": "好友搜索界面和牌铺回放允许查看玩家信息。\n图片来源 pixabay 278897",
+        "homepage": "https://github.com/moxcomic/shuibiao.git",
+        "source":
+        {
+            "type": "raw",
+            "file": "shuibiao-unknown.mspe"
+        }
+    },
+
+    {
+        "id": "FansView",
+        "version": "1.0.0",
+        "name": "番数显示",
+        "author": "88826",
+        "description": "显示手牌番数，不包括宝牌",
+        "preview": "preview.jpg",
+        "homepage": "https://github.com/moxcomic/FansView.git",
+        "source":
+        {
+            "type": "raw",
+            "file": "FansView-88826.mspe"
+        }
+    },
+
+    {
+        "id":"fulu",
+        "version":"1.0.0",
+        "name": "副露占位提示",
+        "author": "8q,AnriMachishiro（修复）",
+        "preview": "preview.jpg",
+        "description": "不移除被副露的牌，用透明表示",
+        "homepage": "https://github.com/moxcomic/fulu.git",
+        "source":
+        {
+            "type": "raw",
+            "file": "fulu.mspe"
+        }
+    },
+
+    {
+        "id": "SeeleVollerei_v3",
+        "name": "一姬改希儿",
+        "version": "3.3.2",
+        "author": ["Yuri","bin", "isroy", "xiaoA233"],
+        "description": "一姬改希儿:包含立绘,语音,大厅&室内背景,开局&结束语音,手纹(圣痕),角色信息;菜名语音;泽尼亚",
+        "preview": "preview.jpg",
+        "homepage":"https://github.com/reatoz/SeeleVollerei.git"
+    },
+
+    {
+        "id": "pais_sound",
+        "version": "1.2.2",
+        "name": "语音麻将",
+        "author": ["bin"],
+        "description": "打牌时&报牌增加时 加入报牌语音(卡维&泽尼亚)",
+        "preview": "preview.png",
+        "homepage":"https://github.com/moxcomic/pais_sound.git"
+    },
+
+    {
+        "id": "board_whiteblack",
+        "version": "1.0.0",
+        "name": "改點數顯示版（透明白+不透明黑）",
+        "author": "元始天尊",
+        "description": "將點數顯示版替換為透明白+不透明黑，\n本套點數顯示版由小魔繪製。",
+        "homepage":"https://github.com/moxcomic/board_whiteblack.git"
+    },
+
+    {
+        "id": "board_white",
+        "version": "1.0.0",
+        "name": "改點數顯示版（透明白）",
+        "author": "元始天尊,AnriMachishiro（1.X转2.X）",
+        "description": "將點數顯示版替換為透明白，\n本套點數顯示版由小魔繪製。",
+        "homepage":"https://github.com/moxcomic/board_white.git"
+    },
+
+    {
+        "id": "tablecloth_2233",
+        "version": "1.0.0",
+        "name": "桌布-2233宇宙",
+        "author": "weini",
+        "description": "",
+        "preview": "assets/preview.jpg",
+        "homepage": "https://github.com/moxcomic/tablecloth_2233.git"
+    },
+
+    {
+        "id": "tablecloth_2017",
+        "version": "1.0.0",
+        "name": "桌布-2017",
+        "author": "weini",
+        "description": "",
+        "preview": "assets/preview.jpg",
+        "homepage": "https://github.com/moxcomic/tablecloth_2017.git"
+    }
+]
